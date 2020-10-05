@@ -72,7 +72,9 @@ let app = [
     'Rotten Tomatoes',
     'Britannica',
     'PayPal',
-    'IGN'
+    'IGN',
+    "Dev",
+    "Hacker Noon"
 ]
 
 let thing = [
